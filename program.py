@@ -211,7 +211,7 @@ def main():
                         if(year.isnumeric() and month.isnumeric() and day.isnumeric()):
                             try:
                                 #this is how we check if given date is valid
-                                enrollmentDate = datetime(int(year), int(month), int(day)).strftime("%Y-%d-%m")
+                                enrollmentDate = datetime(int(year), int(month), int(day)).strftime("%Y-%m-%d")
                                 break
                             except ValueError:
                                 print("Invalid date! Please provide valid date.")

@@ -15,6 +15,6 @@ DML.sql   (contains entries for table students)
 program.py (the program that runs everything)
 README.md (readme)
 
-Video Link: https://youtu.be/bRG445wEJ4g
+Video Link: https://youtu.be/4TiYCeUqKjE
 
 
